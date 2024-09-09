@@ -3,9 +3,7 @@
 import java.awt.*; // for Color
 
 public abstract class Critter {
-	// The following five methods are the ones you must implement for your assignment.
-	// I'm not going to comment them because that's your job.
-
+	
 	public boolean eat() {
 		return false;
 	}
