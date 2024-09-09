@@ -48,3 +48,5 @@ another critter of the same type moves into their location.
 # Scoring
 The simulator keeps a score for each type of critter. This score is the sum of how many critters of that
 type are alive, how much total food they have eaten, and how many other critters they have killed
+
+![alt text](image.png)
